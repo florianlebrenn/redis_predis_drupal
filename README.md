@@ -1,6 +1,11 @@
 # redis_predis_drupal
 Configuration file to enable cache with redis module and predis
 
+# Installation
+* http://redis.io/download#installation
+* https://www.drupal.org/project/redis
+* https://github.com/nrk/predis
+
 # settings.php file
 
 ```php
