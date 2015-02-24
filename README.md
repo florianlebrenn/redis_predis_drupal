@@ -3,7 +3,7 @@ Configuration file to enable cache with redis module and predis
 
 # settings.php file
 
-```
+```php
   /**
    * Redis conf with predis backend.
    */
