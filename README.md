@@ -1,8 +1,9 @@
 # redis_predis_drupal
 Configuration file to enable cache with redis module and predis
 
-settings.php file
+# settings.php file
 
+```
   /**
    * Redis conf with predis backend.
    */
@@ -72,3 +73,4 @@ settings.php file
     }
   
   }
+```
